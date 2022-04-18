@@ -20,4 +20,4 @@ https://access.redhat.com/jbossnetwork/restricted/listSoftware.html?downloadType
 
 ### Starting the installation on OCP4
 1. Installation from Operator Hub
-
+![Img](https://github.com/rafamqrs/amq-streams-migration-ocp/blob/main/installation/Screenshot%20from%202022-04-17%2022-45-33.png)
